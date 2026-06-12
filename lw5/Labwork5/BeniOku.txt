@@ -1,0 +1,1 @@
+Binary to Decimal'i while'a bağladıktan sonra güvenlik duvarı sorun yaratmaya başladı, sorun yaşarsanız online complier kullanabilir veya visual studioyu yönetici çalıştırabilirsiniz veya while'ı kaldırın.
